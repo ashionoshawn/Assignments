@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    
+    
+    cout<<"First name is Brad\n";
+    cout<<"Second name is Nyando\n";
+    cout<<"Your full names are Brad Nyando\n";
+    cout<<"Your favourite meal is Chapo\n";
+    cout<<"Your favourite movie is Avengers\n";
+    
+    
+
+    return 0;
+}
