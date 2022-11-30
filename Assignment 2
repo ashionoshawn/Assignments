@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+   int buying_price, selling_price, profit;
+   cout<< "Enter buying price\n";
+   cin>>buying_price;
+   cout<<"Enter selling price\n";
+   cin>>selling_price;
+   profit = selling_price - buying_price;
+   cout<<" Profit made is\n"<<profit<<"Ksh";
+
+    return 0;
+}
