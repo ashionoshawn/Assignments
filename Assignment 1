@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int base, height, hypotenuse;
+    float area;
+    base = 10;  
+    height = 7;
+    hypotenuse = 12;
+    area = 0.5* base * height;
+    cout<< "Area of triangle is\n"<<area<<"cm2";
+    
+
+    return 0;
+}
